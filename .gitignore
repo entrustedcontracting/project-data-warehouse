@@ -1,3 +1,4 @@
 
 clickhouse
 python-scripts/service_account.json
+python-scripts/config.py
