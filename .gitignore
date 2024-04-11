@@ -2,3 +2,6 @@
 clickhouse
 python-scripts/service_account.json
 python-scripts/config.py
+js-scripts/service_account.json
+js-scripts/config.js
+js-scripts/node_modules
