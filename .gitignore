@@ -7,3 +7,6 @@ js-scripts/config.js
 js-scripts/node_modules
 js-scripts/enforms-2024-04-12.json
 python-scripts/enforms-2024-04-12.json
+python-scripts/final_data.json
+python-scripts/final_data.json.gz
+python-scripts/new_data.json
