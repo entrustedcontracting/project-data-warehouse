@@ -1,0 +1,14 @@
+columns format version: 1
+12 columns:
+`company_id` String
+`name` String
+`website` String
+`linkedin_url` String
+`inferred_employee_count` String
+`industry` String
+`city` String
+`state` String
+`zip_code` Int64
+`street_address` String
+`founded` Int64
+`is_referral_source` Bool
